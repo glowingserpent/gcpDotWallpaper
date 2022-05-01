@@ -32,6 +32,12 @@
 
 ![image](https://user-images.githubusercontent.com/104678324/166144478-cd985b7c-8352-46d9-aff8-80ef51cb45b7.png)
 
+## Note
+- If you accidentally click the dot it will take you to the home page, in that case you just need to set the wallpaper again
+
+![image](https://user-images.githubusercontent.com/104678324/166145213-d9b6dee0-c277-4517-9477-337636375dad.png)
+
+
 # Changing background color and size of the dot
 
 1. Open `gcpdotwallpaper.html` with any text editor
